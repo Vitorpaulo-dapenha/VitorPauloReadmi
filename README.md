@@ -10,9 +10,9 @@ treinamentos e visitas técnicas para correção de inconsistências.
 
 ## Tecnologias de domínio 💻
 
-- **Java**
-- **Spring Boot**
-- **Maven**
+- **Java**              - **Flutter**
+- **Spring Boot**       - **Angular**
+- **Maven**             - **Vue**
 - **JavaScript**
 - **HTML & CSS**
 - **JUnit**
