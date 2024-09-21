@@ -10,14 +10,17 @@ treinamentos e visitas técnicas para correção de inconsistências.
 
 ## Tecnologias de domínio 💻
 
-- **Java**              - **Flutter**
-- **Spring Boot**       - **Angular**
-- **Maven**             - **Vue**
+- **Java**             
+- **Spring Boot** 
+- **Maven**
 - **JavaScript**
 - **HTML & CSS**
 - **JUnit**
 - **SQL**
 - **.Net**
+- **Flutter**
+- **Angular**
+- **Vue**
   
 ## Projetos recentes 🚀
 
