@@ -21,6 +21,8 @@ treinamentos e visitas técnicas para correção de inconsistências.
 - **Flutter**
 - **Angular**
 - **Vue**
+- **React**
+- **MongoDb**
   
 ## Projetos recentes 🚀
 
